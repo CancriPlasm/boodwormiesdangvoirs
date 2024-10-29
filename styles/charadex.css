@@ -277,6 +277,12 @@ a:active {
     margin-left: .25rem;
 }
 
+@media (max-width: 480px) {
+    .navbar .navbar-brand {
+        font-size: 1rem;
+    }
+}
+
 
 /* ============================================================= */
 /* Dropdowns
